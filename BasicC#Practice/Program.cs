@@ -23,7 +23,7 @@ namespace BasicC_Practice
                 Console.WriteLine("It is an odd number");
             };
 
-            if( x % y == 0)
+            if( x % y == 0.0000)
             {
                 Console.WriteLine("It is an even number");
             }
@@ -74,7 +74,7 @@ namespace BasicC_Practice
                 Console.WriteLine("This student did not attend the exam");
             }
 
-            // C# switch
+           
 
 
             Console.ReadLine();
